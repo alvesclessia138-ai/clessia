@@ -1,8 +1,22 @@
+h2{
+color: red;
+
+background-color: gray;
+
+}
+
+h3{
+
+color: yellow;
+
+background-color: brown;
+
+}
 
 p{
 
-color: blue;
-  background-colar: yellow;
-}
+  color: gray;
 
+  background-color: magenta;
+}
   
